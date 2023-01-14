@@ -1,0 +1,32 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.expenceCard {
+  border-radius: 1ch;
+  border: 5ch;
+  border-color: cyan;
+  background-color: wheat;
+  padding: 2ch;
+  color: white;
+  margin: 2ch;
+  padding-bottom: 2ch;
+  height: fit-content;
+}
+
+.expenseCard-description {
+  color: black;
+}
+
+.amount {
+  border-radius: 1ch;
+  border: 3ch;
+  border-color: cyan;
+  background-color: blueviolet;
+  padding: 1ch;
+  color: white;
+  margin: -1ch;
+  width: 50px;
+  float: right;
+}
